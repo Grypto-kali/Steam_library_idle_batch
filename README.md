@@ -49,7 +49,3 @@ Ensure that "idle_master_extended" and "Steam Library Idle" are in the correct d
 1. Unzip the "idle_master_extended" application to a location where you will remember it.
 
 2. Unzip the "Steam Library Idle" application into the root directory of "idle_master_extended" to ensure seamless compatibility.
-
-## License
-
-This project is licensed under the [License Name, e.g., MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
