@@ -40,7 +40,7 @@ After obtaining your Steam ID and installing both "idle_master_extended" and "St
 
 4. Move Batch file (launch_games.bat) to same folder where steam-idle.exe is located (in idle_master_extended folder)
 
-5. Use this batch file with "idle_master_extended" to simulate game activity.
+5. Start Batch file.
 
 ## Additional Instructions
 
