@@ -30,7 +30,7 @@ To use Steam Library Idle, you'll need to find your Steam ID. Here's how:
 
 1. **Get Your Steam API Key**: Visit [Steam API Key](https://steamcommunity.com/dev/apikey).
 
-2. **Give your soul to valve** Accept the terms and conditions
+2. **Give your soul to valve**: Accept the terms and conditions
 
 ## Usage
 
