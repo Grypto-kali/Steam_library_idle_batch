@@ -41,7 +41,7 @@ After obtaining your Steam ID and installing both "idle_master_extended" and "St
 4. Move Batch file (launch_games.bat) to same folder where steam-idle.exe is located (in idle_master_extended folder)
 
 5. Start Batch file.
-  ## warning
+## WARNING
 If you have 11000 games on steam like I do, opening a batch file may result your computer going brrrr
 ## Additional Instructions
 
