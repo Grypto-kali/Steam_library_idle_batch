@@ -1,10 +1,11 @@
 # Steam Library Idle
 
-"Steam Library Idle" is a utility for creating a batch file of your Steam library games, designed to work with [idle_master_extended](https://github.com/JonasNilson/idle_master_extended). This batch file allows you to simulate game activity without being present at your computer.
+"Steam Library Idle" is a tool for creating a batch file of your Steam library games, designed to work with [idle_master_extended](https://github.com/JonasNilson/idle_master_extended). This batch file allows you to simulate game activity without being present at your computer.
 
 ## Description
+![image](https://github.com/Grypto-kali/Steam_library_idle/assets/96015863/98bc634d-3a80-4bb3-85d0-e5b8c07c8609)
 
-This utility simplifies the process of creating a batch file for your Steam library games, enabling you to use them with "idle_master_extended" effortlessly.
+This tool simplifies the process of creating a batch file for your Steam library games, enabling you to use them with "idle_master_extended" effortlessly.
 
 ## Getting Started
 
