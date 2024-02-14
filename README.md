@@ -13,7 +13,7 @@ This tool simplifies the process of creating a batch file for your Steam library
 
 2. **Install Steam Library Idle**: [Download here](https://github.com/Grypto-kali/Steam_library_idle/releases).
 
-3. **Unzip**: Unzip the folders idle_master_extended and Steam_library_idle
+3. **Unzip**: Unzip the folder idle_master_extended and move Steam_library_idle.exe to idle_master_extended folder
 
 ## Steam ID
 
