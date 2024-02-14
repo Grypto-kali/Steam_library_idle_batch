@@ -32,24 +32,3 @@ To use Steam Library Idle, you'll need to find your Steam ID. Here's how:
 1. **Get Your Steam API Key**: Visit [Steam API Key](https://steamcommunity.com/dev/apikey).
 
 2. **Give your soul to valve**: Accept the Steam Web API Terms of Use
-
-## Usage
-
-After obtaining your Steam ID and installing both "idle_master_extended" and "Steam Library Idle," follow these steps:
-
-1. Run "Steam Library Idle".
-
-3. Generate the batch file.
-
-4. Move Batch file (launch_games.bat) to same folder where steam-idle.exe is located (in idle_master_extended folder)
-
-5. Start Batch file.
-## WARNING
-If you have 11000 games on steam like I do, opening a batch file may result your computer going brrrr
-## Additional Instructions
-
-Ensure that "idle_master_extended" and "Steam Library Idle" are in the correct directories before usage:
-
-1. Unzip the "idle_master_extended" application to a location where you will remember it.
-
-2. Unzip the "Steam Library Idle" application into the root directory of "idle_master_extended" to ensure seamless compatibility.
