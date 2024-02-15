@@ -47,7 +47,7 @@ namespace SteamGameLauncher
                                 batchFile.WriteLine(":start");
                                 batchFile.WriteLine("cls");
 
-                                int groupSize = 20;
+                                int groupSize = 40;
                                 int numGroups = (int)Math.Ceiling((double)games.Length / groupSize);
 
                                 for (int i = 0; i < numGroups; i++)
