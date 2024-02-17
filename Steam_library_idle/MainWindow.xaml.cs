@@ -20,7 +20,7 @@ namespace SteamGameLauncher
             string apiKey = apiKeyPasswordBox.Password;
             string steamId = steamIdTextBox.Text;
 
-            string url = $"http://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key={apiKey}&steamid={steamId}&include_appinfo=1&format=json";
+            string url = $"https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key={apiKey}&steamid={steamId}&include_appinfo=1&format=json";
 
             using (HttpClient client = new HttpClient())
             {
